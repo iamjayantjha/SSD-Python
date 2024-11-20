@@ -28,17 +28,27 @@ SSD Assignment 3/
 
 ## **Installation and Setup**
 
-1. **Install Dependencies**:
+1. **Download the Data and save to data folder**:
+    - Ensure all the files are downloaded.
+    - Also, can be downloaded from this projects GitHub repository link below:
+      ```url
+      https://github.com/iamjayantjha/SSD-Python/tree/main/data
+      ```
+
+2. **Make sure the Python interpreter is set to .venv**:
+    - Ensure you have set the interpreter as .venv.
+   
+3. **Install Dependencies**:
     - Ensure you have Python 3.6+ installed.
     - Install required Python libraries:
       ```bash
       pip install nltk
       ```
 
-2. **Prepare Input Files**:
+4. **Prepare Input Files**:
     - Place your text files (`.txt`) in the `data/` directory. These files will be used to calculate similarities.
 
-3. **Download NLTK Stopwords**:
+5. **Download NLTK Stopwords**:
     - Run the following in your Python environment to download stopwords:
       ```python
       import nltk
