@@ -9,7 +9,7 @@ This project calculates the similarity between a collection of text files based 
 ## **Project Structure**
 
 ```
-rollno_a3/
+SSD Assignment 3/
 ├── data/                        # Directory containing input text files
 │   ├── file_1.txt
 │   ├── file_2.txt
